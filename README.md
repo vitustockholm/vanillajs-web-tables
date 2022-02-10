@@ -4,14 +4,17 @@ MERN based project
 https://vanillajs-web-tables-demo.vercel.app/ 
 
 
-Vanilla JavaScript representation web site for local manufactor + animated elements + responsive design 
+Vanilla JavaScript representation web site for local manufactor
 
-Rendering data from Mongo db
-**possible to fire up products from this functionality
++ animated elements
++ responsive design 
++ data from mongoDB
+
+Prepared for products importation
 
 
 
-todo***  backend functionality to collect orders in MongoDB database, from private route on password hashed by at least base45
+todo***  backend functionality to collect orders in MongoDB database, from private route on password + hashed
 
 
-project BASED 
+
